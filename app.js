@@ -3,5 +3,5 @@ function holaBuenDia(){
     console.log('Otro saludo');
 }
 function hastaLuego(){
-    console.log('que te vaya bien');
+    console.log('otro mensaje');
 }
